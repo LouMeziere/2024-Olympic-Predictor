@@ -20,7 +20,7 @@ scikit-learn, pandas, seaborn, matplotlib
 
 # Dataset
 
-Tokyo 2021 Olympics Dataset: Contains data on medal counts (gold, silver, bronze) and participating countries.
+Tokyo 2020/2021 Olympics Dataset: Contains data on medal counts (gold, silver, bronze) and participating countries.
 
 2020 GDP Dataset: Includes GDP data for countries participating in the Olympics.
 
