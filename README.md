@@ -18,9 +18,10 @@ scikit-learn, pandas, seaborn, matplotlib
 4. Predictions and Evaluations
 
 
-# Dataset:
+# Dataset
 
 Tokyo 2021 Olympics Dataset: Contains data on medal counts (gold, silver, bronze) and participating countries.
+
 2020 GDP Dataset: Includes GDP data for countries participating in the Olympics.
 
 
@@ -32,6 +33,7 @@ No inputs are required from the user. Simply run all cells in the jupiter notebo
 # Author
 
 Anh Vo
+
 Lou Meziere
 
 
